@@ -1,0 +1,156 @@
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\BooksAPI.dll.config
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\BooksAPI.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\BooksAPI.pdb
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\csc.exe
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\csc.exe.config
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\csc.rsp
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\csi.exe
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\csi.exe.config
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\csi.rsp
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.AppContext.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Console.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\vbc.exe
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\vbc.exe.config
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\vbc.rsp
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\EntityFramework.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\Newtonsoft.Json.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\System.Web.Http.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\EntityFramework.xml
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\Newtonsoft.Json.xml
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\System.Web.Http.xml
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.csproj.AssemblyReference.cache
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.CreateEmpty.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.OneAuthorOnly.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.Requirements.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.FKAuthor.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.NoFK.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.NoFK1.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.FK.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.requ.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.Migrations.asdf.resources
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.csproj.GenerateResource.cache
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.csproj.CoreCompileInputs.cache
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.csproj.CopyComplete
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.dll
+C:\Users\splaw\Desktop\Nowy folder\BooksAPI\obj\Debug\BooksAPI.pdb
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\BooksAPI.dll.config
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\BooksAPI.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\BooksAPI.pdb
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\csc.exe
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\csc.exe.config
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\csc.rsp
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\csi.exe
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\csi.exe.config
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\csi.rsp
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.AppContext.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Console.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.IO.Compression.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.IO.Pipes.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Security.Claims.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.ValueTuple.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Xml.XPath.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\vbc.exe
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\vbc.exe.config
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\vbc.rsp
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\VBCSCompiler.exe
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\EntityFramework.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\EntityFramework.SqlServer.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\Newtonsoft.Json.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\System.Web.Http.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\EntityFramework.xml
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\EntityFramework.SqlServer.xml
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\Newtonsoft.Json.xml
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\System.Web.Http.xml
+C:\Users\splaw\Desktop\aaa\BooksAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.csproj.AssemblyReference.cache
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.CreateEmpty.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.OneAuthorOnly.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.Requirements.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.FKAuthor.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.NoFK.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.NoFK1.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.FK.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.requ.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.Migrations.asdf.resources
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.csproj.GenerateResource.cache
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.csproj.CoreCompileInputs.cache
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.csproj.CopyComplete
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.dll
+C:\Users\splaw\Desktop\aaa\BooksAPI\obj\Debug\BooksAPI.pdb
